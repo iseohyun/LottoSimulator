@@ -1,1 +1,1 @@
-# LottoSimulator- 
+# LottoSimulator

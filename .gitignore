@@ -1,0 +1,5 @@
+open-test-server.bat
+node_modules/
+dist/
+build/
+out/
